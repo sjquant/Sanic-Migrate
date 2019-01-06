@@ -1,1 +1,1 @@
-"# Sanic-Migrate" 
+# Sanic-Migrate
